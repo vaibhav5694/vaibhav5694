@@ -6,9 +6,9 @@ I'm a 2021 BTech graduate with 2 years of experience, including 1 year in data a
 [![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)](https://www.postgresql.org) 
 [![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
 [![NumPy](https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg)](https://numpy.org)
-[![Matplotlib](https://raw.githubusercontent.com/matplotlib/matplotlib/master/doc/_static/logo2.png)](https://matplotlib.org)
 [![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg)](https://seaborn.pydata.org) 
 [![Selenium](https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg)](https://www.selenium.dev)
+[![Power BI](https://www.powerbi.com/images/desktop/en-us/win/pblogo-icon.png)](https://powerbi.microsoft.com)
 
 📊 **GitHub Stats**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav5694&show_icons=true&locale=en&layout=compact)
@@ -26,7 +26,7 @@ I'm a 2021 BTech graduate with 2 years of experience, including 1 year in data a
 - Machine Learning
 - Data Visualization
 - Web Scraping
-- NumPy and Matplotlib
+- NumPy
 
 📫 **Contact Me**
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
