@@ -32,10 +32,3 @@ I'm a 2021 BTech graduate with 2 years of experience, including 1 year in data a
 - Email: [vaibhavpandey5694@gmail.com](mailto:vaibhavpandey5694@gmail.com)
 
 
-
-
-[![LinkedIn](https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/vaibhav-pandey-298862167)
-[![HackerRank](https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original-wordmark.svg)](https://www.hackerrank.com/vaibhavpandey561)
-[![LeetCode](https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-plain.svg)](https://leetcode.com/Vaibhavtrycode)
-
-
