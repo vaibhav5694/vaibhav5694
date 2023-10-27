@@ -19,7 +19,7 @@ I'm a 2021 BTech graduate with 2 years of experience, including 1 year in data a
 ![GitHub Streak Stats (Contributions)](https://github-readme-streak-stats.herokuapp.com/?user=vaibhav5694&show_icons=true&theme=dark)
 
 🚀 **Recent Project**
-- [My Awesome Project](https://github.com/vaibhav5694/MyAwesomeProject): Covered all projects related to data science and analytics.
+- [My Awesome Project](https://github.com/vaibhav5694): Covered all projects related to data science and analytics.
 
 📚 **I'm Currently Learning**
 - Machine Learning
