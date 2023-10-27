@@ -28,6 +28,15 @@ I'm a 2021 BTech graduate with 2 years of experience, including 1 year in data a
 - NumPy
 
 📫 **Contact Me**
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/vaibhav-pandey-298862167)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/vaibhav-pandey-298862167)
 - Email: [vaibhavpandey5694@gmail.com](mailto:vaibhavpandey5694@gmail.com)
-- 
+
+
+
+```markdown
+[![LinkedIn](https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/vaibhav-pandey-298862167)
+[![HackerRank](https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original-wordmark.svg)](https://www.hackerrank.com/your_username)
+[![LeetCode](https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-plain.svg)](https://leetcode.com/your_username)
+```
+
+
