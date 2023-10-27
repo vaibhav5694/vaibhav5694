@@ -1,4 +1,4 @@
-### Hi there, I'm [Vaibhav Pandey](https://github.com/YourGitHubUsername) 👋
+### Hi there, I'm [Vaibhav Pandey](https://www.linkedin.com/in/vaibhav-pandey-298862167) 👋
 
 I'm a 2021 BTech graduate with 2 years of experience, including 1 year in data analytics within a management consulting firm. My skill set includes Python, advanced Excel, SQL, Snowflake, and Power BI. I'm currently seeking analytics roles and would greatly appreciate your assistance with a referral.
 
@@ -18,9 +18,8 @@ I'm a 2021 BTech graduate with 2 years of experience, including 1 year in data a
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=vaibhav5694)
 ![GitHub Streak Stats (Contributions)](https://github-readme-streak-stats.herokuapp.com/?user=vaibhav5694&show_icons=true&theme=dark)
 
-🚀 **Recent Projects**
-- [Project 1](https://github.com/YourGitHubUsername/Project1): Description of Project 1.
-- [Project 2](https://github.com/YourGitHubUsername/Project2): Description of Project 2.
+🚀 **Recent Project**
+- [My Awesome Project](https://github.com/vaibhav5694/MyAwesomeProject): Covered all projects related to data science and analytics.
 
 📚 **I'm Currently Learning**
 - Machine Learning
@@ -29,6 +28,6 @@ I'm a 2021 BTech graduate with 2 years of experience, including 1 year in data a
 - NumPy
 
 📫 **Contact Me**
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/vaibhav-pandey-298862167)
+- Email: [vaibhavpandey5694@gmail.com](mailto:vaibhavpandey5694@gmail.com)
 - 
