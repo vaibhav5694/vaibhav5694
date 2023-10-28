@@ -28,5 +28,5 @@ I'm currently seeking analytics roles and would greatly appreciate your assistan
 - NumPy
 
 📫 **Contact Me**
-- Portfolio: [My Portfolio website](https://app.netlify.com/sites/peaceful-fox-262947/overview)
+- Portfolio: [My Portfolio website](https://peaceful-fox-262947.netlify.app/)
 - Email: [vaibhavpandey5694@gmail.com](mailto:vaibhavpandey5694@gmail.com)
