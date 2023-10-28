@@ -28,5 +28,5 @@ I'm currently seeking analytics roles and would greatly appreciate your assistan
 - NumPy
 
 📫 **Contact Me**
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/vaibhav-pandey-298862167)
+- Portfolio: [My Portfolio website](https://app.netlify.com/sites/peaceful-fox-262947/overview)
 - Email: [vaibhavpandey5694@gmail.com](mailto:vaibhavpandey5694@gmail.com)
