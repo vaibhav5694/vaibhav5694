@@ -7,9 +7,10 @@ I'm a 2021 BTech graduate with 2 years of experience, including 1 year in data a
     <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL"></a>
     <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></a>
     <a href="https://numpy.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy"></a>
-    <a href="https://seaborn.pydata.org"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn"></a>
+    <a href="https://seaborn.pydata.org"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.png" alt="Seaborn"></a>
     <a href="https://www.selenium.dev"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium"></a>
 </div>
+
 
 📊 **GitHub Stats**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav5694&show_icons=true&locale=en&layout=compact)
