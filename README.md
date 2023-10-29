@@ -14,6 +14,11 @@ I'm currently seeking analytics roles and would greatly appreciate your assistan
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav5694&show_icons=true&locale=en&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhav5694&show_icons=true&locale=en)
 
+
+**Profile Views**
+![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=PROFILE+VIEWS&style=flat&color=blue)
+
+
 🔥 **GitHub Streaks**
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=vaibhav5694)
 ![GitHub Streak Stats (Contributions)](https://github-readme-streak-stats.herokuapp.com/?user=vaibhav5694&show_icons=true&theme=dark)
