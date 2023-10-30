@@ -1,4 +1,4 @@
-### Hi there, I'm [Vaibhav Pandey](https://www.linkedin.com/in/vaibhav-pandey-298862167) 👋
+### Hi there, I'm [Vaibhav](https://www.linkedin.com/in/vaibhav-pandey-298862167) 👋
 
 I'm a 2021 BTech graduate with 2 years of experience, including 1 year in data analytics within a management consulting firm. My skill set includes:
 
