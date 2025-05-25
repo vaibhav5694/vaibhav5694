@@ -12,7 +12,7 @@ I'm a 2021 BTech graduate with 2 years of experience, including 1 year in data a
 - **ETL Development**
 - **Statistics**
 - **A/B Testing**
-
+- **Machine Learning**
 
 
 I'm currently seeking analytics roles and would greatly appreciate your assistance with a referral.
