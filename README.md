@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm [Vaibhav Pandey](https://www.linkedin.com/in/vaibhav-pandey-298862167)
 
-🎓 I graduated with a **B.Tech in 2021** and bring **4 years of industry experience**, including **1 year in Data Analytics** at a top-tier management consulting firm and hands-on work in **data integration**, **ETL development**, and **Python-based automation**.
+🎓 I graduated with a **B.Tech in 2021** and bring **4 years of industry experience** having hands-on work in **data integration**, **ETL development**, and **Python-based automation**.
 
 💡 I specialize in building **robust data workflows**, automating processes using Python, and connecting to **diverse data sources** across **on-premise** and **cloud platforms**. Currently, I’m advancing my skill set in **FastAPI**, **Machine Learning**, **Statistics**, **Web Development**.
 
